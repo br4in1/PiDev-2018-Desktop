@@ -1,0 +1,8 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.navbar
+{
+     -fx-background-image: url("/assets/red.png");
+}
